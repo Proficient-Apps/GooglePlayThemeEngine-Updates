@@ -3,12 +3,20 @@
     <appName>Google Play Theme Engine</appName>
     <appDescription>Theme Engine Updater</appDescription>
     <packageName>in.proficientapps.gpte</packageName>
-    <versionCode>1</versionCode>
-    <versionName>1.0</versionName>
+    <versionCode>2</versionCode>
+    <versionName>2.0</versionName>
     <forceUpdate>false</forceUpdate>
     <autoUpdate>false</autoUpdate>
-    <apkUrl></apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Proficient-Apps/GooglePlayThemeEngine-Updates/master/apks/GPTE-v2.0.apk</apkUrl>
     <updateTips>
-        <default>Change Log:\n\nVersion 1.0 : Initial Release.</default>
+        <default>Change Log:\n\nVersion 2:
+Added : Support for theming Play Music Tab.
+Added : Support for theming full app BG.
+Added : Support for theming What's New BG.
+Added : Auto Update Checker.
+Updated : License Check System.
+
+Version 1:
+Initial Release.</default>
     </updateTips>
 </updateInfo>
