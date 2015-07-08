@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>Google Play Theme Engine</appName>
+    <appDescription>Theme Engine Updater</appDescription>
+    <packageName>in.proficientapps.gpte</packageName>
+    <versionCode>1</versionCode>
+    <versionName>1.0</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>false</autoUpdate>
+    <apkUrl></apkUrl>
+    <updateTips>
+        <default>Change Log:\n\nVersion 1.0 : Initial Release.</default>
+    </updateTips>
+</updateInfo>
